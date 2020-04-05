@@ -1,2 +1,12 @@
-# InQue
-Website for scraping interview Questions
+# InQue 👨🏻‍🎓
+### Requirements
+- NodeJS 
+- MongoDB
+
+### How to run?
+```javascript
+$ cd InQue
+$ npm install
+$ node index.js
+```
+
